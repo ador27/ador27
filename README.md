@@ -8,7 +8,6 @@ I'm Md. Rashedul Haque Ador from Bangladesh. I have completed a course on MERN S
 * ⚛ React
 * 💻 HTML, CSS, JS
 
-Skills:  REACT / JS / HTML / CSS 
 
 
 
