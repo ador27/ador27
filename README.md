@@ -1,8 +1,9 @@
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+# Hi there 👋, I'm Md. Rashedul Haque Ador
+
 I'm Md. Rashedul Haque Ador from Bangladesh. I have completed a course on MERN Stack. Now I can design and develop a good professional website. I really love to learn design and developing. I really enjoy while learning a new languages and new frameworks like Reactjs, Nodejs, Expressjs, MongoDB etc. I also have some knowledge on WordPress.
 
-# Hi there 👋, I'm Md. Rashedul Haque Ador
 
 ### Skills
 <p align="left">
