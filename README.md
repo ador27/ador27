@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1IAFog9Nf-OM93NiDckfuCmAcBOTZmT6L/view?usp=sharing" height="240" width="480">
+![](https://media-exp1.licdn.com/dms/image/D5616AQHZVmadVjKMmw/profile-displaybackgroundimage-shrink_350_1400/0/1666081553990?e=1671667200&v=beta&t=U-Btzf0Q30NqSPo_5R62ttDRcVXoUWXN5vDK2H8okPE)
 
 # Hi there 👋, I'm Md. Rashedul Haque Ador
 
@@ -32,6 +32,15 @@ I'm Md. Rashedul Haque Ador from Bangladesh. I have completed a course on MERN S
                                 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+	
+### Socials
+                  
+                 
+<p align="left">
+                          
+ <a href="https://www.facebook.com/rashedulhaque.ador" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+ <a href="https://github.com/ador27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/rashedul-haque-ador/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
@@ -44,11 +53,4 @@ I'm Md. Rashedul Haque Ador from Bangladesh. I have completed a course on MERN S
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ador27&theme=vue" />
 </p>
 	
-### Socials
-                  
-                 
-<p align="left">
-                          
- <a href="https://www.facebook.com/rashedulhaque.ador" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
- <a href="https://github.com/ador27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/rashedul-haque-ador/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
