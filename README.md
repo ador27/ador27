@@ -1,4 +1,4 @@
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://drive.google.com/file/d/1IAFog9Nf-OM93NiDckfuCmAcBOTZmT6L/view?usp=sharing)
 
 # Hi there 👋, I'm Md. Rashedul Haque Ador
 
