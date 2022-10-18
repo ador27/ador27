@@ -6,7 +6,7 @@
 
 I'm Md. Rashedul Haque Ador from Bangladesh. I have completed a course on MERN Stack. Now I can design and develop a good professional website. I really love to learn design and developing. I really enjoy while learning a new languages and new frameworks like Reactjs, Nodejs, Expressjs, MongoDB etc. I also have some knowledge on WordPress.
 
-https://github-readme-stats.vercel.app/api?username=ador27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+img src = "https://github-readme-stats.vercel.app/api?username=ador27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515",
 
 
 ### Skills
