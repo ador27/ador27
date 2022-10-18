@@ -6,10 +6,6 @@
 
 I'm Md. Rashedul Haque Ador from Bangladesh. I have completed a course on MERN Stack. Now I can design and develop a good professional website. I really love to learn design and developing. I really enjoy while learning a new languages and new frameworks like Reactjs, Nodejs, Expressjs, MongoDB etc. I also have some knowledge on WordPress.
 
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ador27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-</p>
 
 ### Skills
 <p align="left">
@@ -37,9 +33,20 @@ I'm Md. Rashedul Haque Ador from Bangladesh. I have completed a course on MERN S
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ador27&theme=vue"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ador27&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ador27&theme=vue" />
+</p>
+	
 ### Socials
                   
-                  
+                 
 <p align="left">
                           
  <a href="https://www.facebook.com/rashedulhaque.ador" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
