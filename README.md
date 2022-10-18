@@ -1,4 +1,4 @@
-![Design and Development](https://drive.google.com/file/d/1IAFog9Nf-OM93NiDckfuCmAcBOTZmT6L/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1IAFog9Nf-OM93NiDckfuCmAcBOTZmT6L/view?usp=sharing" height="240" width="480">
 
 # Hi there 👋, I'm Md. Rashedul Haque Ador
 
