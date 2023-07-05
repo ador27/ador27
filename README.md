@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/D5616AQGx1i_Mq7Gycg/profile-displaybackgroundimage-shrink_350_1400/0/1666082407748?e=1671667200&v=beta&t=JasjeVpicCNknrY5sh0H4wjg7stOnLm5jEBUyb--ZQQ)
 
-# Hi there 👋, I'm Md. Rashedul Haque Ador
+# Hi there 👋, I'm Rashedul Haque Ador
 
 ## MERN Stack Web Developer
 
